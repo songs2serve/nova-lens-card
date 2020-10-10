@@ -1,6 +1,6 @@
 {
     "name": "songs2serve/nova-lens-card",
-    "description": "Turn your Nova lenses into summary cards.",
+    "description": "Add table cards to your Nova dashboard by using your existing Lenses.",
     "keywords": [
         "laravel",
         "nova"
