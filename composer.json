@@ -1,6 +1,6 @@
 {
     "name": "songs2serve/nova-lens-card",
-    "description": "Add table cards to your Nova dashboard by using your existing Lenses.",
+    "description": "Add table cards to your Laravel Nova 3 dashboard by using your existing Lenses.",
     "keywords": [
         "laravel",
         "nova"

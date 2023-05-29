@@ -1,6 +1,6 @@
 # Nova Lens Card
 
-Turn your Nova lenses into summary cards.
+Turn your Laravel Nova 3 lenses into summary cards.
 
 ## Installation
 
